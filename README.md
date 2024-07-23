@@ -1,3 +1,3 @@
-<img src="/assets/images/pokemon.jpg" alt="Pokédex" width="800" />
+<img src="/assets/images/pokemon.jpg" alt="Pokédex" width="500" />
 
         
